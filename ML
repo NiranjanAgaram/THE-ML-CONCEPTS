@@ -1,0 +1,10 @@
+💡 What is the difference between a model parameter and a learning hyperparameter?
+
+• A model parameter describes the final model itself, e.g. slope or intercept in a simple linear regression model.
+• A learning hyperparameter describes the way in which a model parameter is learned, e.g. learning rate, penalty terms, number of features to include in a weak predictor, etc
+
+So, you can think of it like this:
+
+- The learning hyperparameters are the settings that you specificy when you want to train a model.
+
+- The model parameters are the rules that mathematically describe the final model that makes your predictions.
